@@ -2,7 +2,7 @@
 project name: Store Sales dataset analysis
 project idea :
 
-Team member:
+##Team member:
 1-Marina Nagy Sobhy
 2-Arwa Nagy Gendy
 3-Basmala Ramadan 
@@ -10,7 +10,7 @@ Team member:
 5-Hethem Yousef Amen
 6-Mahmoad Mohmed 
 
-Project Plan
+##Project Plan
 1.	Research & Analysis 
 o	Audience personas 
 2.	Visual Identity 
