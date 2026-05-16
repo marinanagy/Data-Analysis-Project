@@ -27,11 +27,14 @@ o	Poster
  
 •	KPIs (Key Performance Indicators) 
 – Metrics for project success 
-(e.g., response time, system uptime, user adoption rate). 
+Total Unit Sold	Total Revenue	Total Marketing Spend
+ 633,192 	 47,969,164,700 	 279,492,230 
+<img width="437" height="59" alt="image" src="https://github.com/user-attachments/assets/1e89f557-2854-48fb-bcbc-4ef188385d03" />
+
  
  
 Instructor  
-* 
+* Sara Basher
  
   
  
