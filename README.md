@@ -26,7 +26,8 @@ o	Poster
  
  
 •	KPIs (Key Performance Indicators) 
-– Metrics for project success 
+– Metrics for project success:
+
 Total Unit :633,192
 
 Sold	Total Revenue	: 47,969,164,700 
