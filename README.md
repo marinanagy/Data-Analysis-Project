@@ -22,23 +22,20 @@ o	Poster
 6.	Final Presentation 
   
 ### Roles & Responsibilities 
-•	  
+
  
  
 •	KPIs (Key Performance Indicators) 
 – Metrics for project success 
-Total Unit Sold	Total Revenue	Total Marketing Spend
- 633,192 	 47,969,164,700 	 279,492,230 
-<img width="437" height="59" alt="image" src="https://github.com/user-attachments/assets/1e89f557-2854-48fb-bcbc-4ef188385d03" />
-
- 
+Total Unit :633,192
+Sold	Total Revenue	: 47,969,164,700 
+Total Marketing Spend: 279,492,230 
+<img width="473" height="59" alt="image" src="https://github.com/user-attachments/assets/322f1d00-b83c-4cac-9713-8561b4a74a28" />
  
 Instructor  
 * Sara Basher
  
-  
- 
- 
+
 ##### Project Files 
 You can find the full project files here: 
 https://drive.google.com/drive/folders/1bYPA0btLuJusSWJD6zbp_DJc8XQ09fzG?usp=drive_link
