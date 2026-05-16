@@ -28,8 +28,13 @@ o	Poster
 •	KPIs (Key Performance Indicators) 
 – Metrics for project success 
 Total Unit :633,192
+
 Sold	Total Revenue	: 47,969,164,700 
+
 Total Marketing Spend: 279,492,230 
+
+
+
 <img width="473" height="59" alt="image" src="https://github.com/user-attachments/assets/322f1d00-b83c-4cac-9713-8561b4a74a28" />
  
 Instructor  
